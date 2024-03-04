@@ -1,0 +1,25 @@
+{
+  "name": "is-palindrome-checker",
+  "version": "1.0.0",
+  "description": "is-palindrome-checker package",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashimehta03/is-palindrome-checker.git"
+  },
+  "keywords": [
+    "npm",
+    "is-palindrome-checker",
+    "validate"
+  ],
+  "author": "Shashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashimehta03/is-palindrome-checker/issues"
+  },
+  "homepage": "https://github.com/shashimehta03/is-palindrome-checker#readme"
+}
